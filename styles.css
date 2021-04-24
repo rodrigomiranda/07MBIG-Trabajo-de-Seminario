@@ -1,3 +1,27 @@
 body {
-  background: orange;
+  font-family: Lato;
+}
+
+b {
+  color: #5878aa;
+}
+
+b {
+  font-weight: bold;
+}
+p,
+li {
+  font-size: 22px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 22px;
+}
+
+h6 {
+  font-size: 14px;
 }
